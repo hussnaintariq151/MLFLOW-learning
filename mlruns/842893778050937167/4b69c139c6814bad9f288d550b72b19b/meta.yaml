@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842893778050937167/4b69c139c6814bad9f288d550b72b19b/artifacts
+end_time: 1742368604480
+entry_point_name: ''
+experiment_id: '842893778050937167'
+lifecycle_stage: active
+run_id: 4b69c139c6814bad9f288d550b72b19b
+run_name: rumbling-conch-365
+run_uuid: 4b69c139c6814bad9f288d550b72b19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742368595586
+status: 3
+tags: []
+user_id: Administrator

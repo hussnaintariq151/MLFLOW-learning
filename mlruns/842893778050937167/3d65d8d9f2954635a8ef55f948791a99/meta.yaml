@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842893778050937167/3d65d8d9f2954635a8ef55f948791a99/artifacts
+end_time: 1742370973041
+entry_point_name: ''
+experiment_id: '842893778050937167'
+lifecycle_stage: active
+run_id: 3d65d8d9f2954635a8ef55f948791a99
+run_name: valuable-calf-311
+run_uuid: 3d65d8d9f2954635a8ef55f948791a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742370964325
+status: 3
+tags: []
+user_id: Administrator

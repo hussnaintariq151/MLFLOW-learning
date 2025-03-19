@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842893778050937167/5ebe55770fc84b59a4db18dee29739dc/artifacts
+end_time: 1742368411089
+entry_point_name: ''
+experiment_id: '842893778050937167'
+lifecycle_stage: active
+run_id: 5ebe55770fc84b59a4db18dee29739dc
+run_name: thundering-lark-514
+run_uuid: 5ebe55770fc84b59a4db18dee29739dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742368397233
+status: 3
+tags: []
+user_id: Administrator
